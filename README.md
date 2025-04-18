@@ -1,3 +1,7 @@
+# DISCONTINUED
+
+This project was discontinued due to legal threats by fmis13. He was claiming it was never MIT. I do not want to pour in hours of my life into court battles. Please find any alternatives to Arvello. I am currently developing a modern alternative to this app that looks like it was made a few years ago when Bootstrap was the hot new thing.
+
 # OpenArvello
 
 OpenArvello is a project aiming to keep Arvello fully open source after the controversial relicensing to Creative Commons.
